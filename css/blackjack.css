@@ -22,7 +22,7 @@ h1 {
     width: 672px;
     display: inline-block;
     position: fixed;
-    top: 0%;
+    top: 0;
 }
 
 .flip-container {
